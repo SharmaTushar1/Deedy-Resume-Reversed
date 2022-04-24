@@ -10,7 +10,7 @@
 % https://github.com/deedydas/Deedy-Resume
 %
 % v1.3 author:
-% Zachary Taylor
+% Tushar Taylor
 %
 % v1.3 repository:
 % https://github.com/ZDTaylor/Deedy-Resume-Reversed
@@ -78,7 +78,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Zachary Taylor}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
+\namesection{Tushar Sharma}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
 \href{mailto:zacharydtaylor1997@gmail.com}{zacharydtaylor1997@gmail.com} | \href{tel:16156635675}{615.663.5675}
 }
 
